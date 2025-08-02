@@ -55,4 +55,4 @@ README.md: Project documentation
 
 🔗 Hashtags
 
-#digitalbhem #chatbot #rasa #tkinter #pythonproject #internshipproject #aiml #aichatbo
+#digitalbhem #chatbot #rasa #tkinter #pythonproject #internshipproject #aiml #aichatbot
